@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: linear-gradient(to right, #141e30, #243b55);
+}
+.name{
+    color: blue;
+    justify-content: center;
+    align-items: center;
+}
+.History{
+    color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
